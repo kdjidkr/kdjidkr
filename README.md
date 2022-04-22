@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdjidkr)](https://solved.ac/kdjidkr/)
 
 <!--
 **kdjidkr/kdjidkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
